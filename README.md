@@ -1,15 +1,15 @@
-# T7 — Aqib & Romaisa Wedding Invitation
+# T7 — WI
 
-GitHub Pages-ready T7 package recreated from `T7.har`.
 
-Requested personalization:
-- Names: Aqib & Romaisa
+
+Request personalization:
+- Names: XX 
 - Bismillah: In the name of Allah, the Most Gracious, the Most Merciful.
-- Address: House No. 34, Nawab Bagh, Baghwanpora, Lal Bazar, Srinagar.
+- Address: XXXX XX
 - UMS: ♥︎ ums
-- Event date/time: 22 September 2026, 2:00 PM
+- Event date/time: XX XXXX
 
-The T7 HTML/CSS/JS, images, fonts, audio and video captured in the HAR are retained.
+The T7 HTML/CSS/JS
 
 ## Disclaimer
 
